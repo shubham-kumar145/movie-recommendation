@@ -428,7 +428,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = "https://movie-recommendations-1-arxl.onrender.com/"
+API_BASE = "https://movie-recommendation-ez05.onrender.com/"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_IMG_ORIGINAL = "https://image.tmdb.org/t/p/original"
 
